@@ -26,7 +26,8 @@ In the second part of our analysis, we will produce queries that show summary st
 19. Set Up Flask
 20. Create the Routes
 
-
+## Initial Results
+In the date range specified (August 2016 to October 2017), there were 9 active stations, the most active station with a count of 2272 records, recorded a maximum temperature of 85.0, a minumum temperature of 54.0, and an average temperature of 71.7. A histogram plot shows that the most ocurring temperature was around 75.0. 
 
 
 
