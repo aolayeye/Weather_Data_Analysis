@@ -42,7 +42,7 @@ Where 50% of the temperatures recorded for June were above 75.0, median temperat
 June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
 
 
-#### June and December Summary Statistics
+#### June and December Summary Statistics [Temperature]
 ![June_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620365-624f5d80-d058-11eb-94e6-e2ec1cf1c368.png)
 ![December_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620371-667b7b00-d058-11eb-910c-71bc7509b12e.png)
 
@@ -55,3 +55,12 @@ It is Important to note, we are specifying that the population does not have equ
 
 Our T-Test show: P-Value:[4.19352984e-187] T-Statistic:[31.35503692]
 We have a very small P-value to reject the Null Hypothesis. This means even though the standard deviations between our June and December are similar (3.257417, 3.745920), the difference in the population mean is statistically significant to consider the month of June and December different in terms of temperature.
+
+## Summary
+### Additional Query 1
+Our additional query provides summary statistics for June and December for precipitation
+
+#### June and December Summary Statistics [Precipitation]
+![June_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621349-df7bd200-d05a-11eb-8e1b-02d03bc99611.png)
+![December_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621354-e4408600-d05a-11eb-8dd7-d52fb580a815.png)
+
