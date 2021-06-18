@@ -1,5 +1,3 @@
-![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122618903-d556d500-d054-11eb-8c19-62b1b1c4f020.png)
-![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122618910-d8ea5c00-d054-11eb-8465-d867e17ce897.png)
 # surfs_up
 ## Overview
 The Surf_Up analysis seeks to analyze weather for several years to determine if establishing a surfing business in oahu is viable. In this analysis, we woud utilize Jupyter notebook, a SQLite database, and VSCode where we will create our flask application to visualize the results of our analysis.
