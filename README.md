@@ -31,7 +31,8 @@ In the date range specified (August 2016 to October 2017), there were 9 active s
 
 
 ![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122619136-5e6e0c00-d055-11eb-965a-e72ea3e8ea71.png)
-![Temperature_Top_Station_2016_2017](https://user-images.githubusercontent.com/67847583/122619287-b4db4a80-d055-11eb-8768-e422502772c0.png)
+![Temperature_Top_Station_2016_2017](https://user-images.githubusercontent.com/67847583/122619380-f2d86e80-d055-11eb-9b48-7bedb6fd199d.png)
+
 
 
 
