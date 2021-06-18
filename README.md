@@ -58,13 +58,13 @@ We have a very small P-value to reject the Null Hypothesis. This means even thou
 
 ## Summary
 ### Additional Query 1
-Our additional query provides summary statistics for June and December for precipitation
+Our additional query 1 provides summary statistics for June and December for precipitation
 
 #### June and December Summary Statistics [Precipitation]
 ![June_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621349-df7bd200-d05a-11eb-8e1b-02d03bc99611.png)
 ![December_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621354-e4408600-d05a-11eb-8dd7-d52fb580a815.png)
 
-#### Interpreting the June and December Temperature Results
+#### Interpreting the June and December Precipitation Results
 Using a T-Test, we can detrmine if the mean precipitation values are different for the two months. To do so, we have to define our Null and Alternate Hypothesis.
 1. Null Hypothesis: µjune = µdecember (the means of both populations are equal)
 2. Alternate Hypothesis: µjune ≠ µdecember (the means of both populations are not equal)
@@ -73,3 +73,19 @@ It is Important to note, we are specifying that the population does not have equ
 
 Our T-Test show: P-Value:[1.84738788e-06] T-Statistic:[-4.78090477]
 We have a very small P-value to reject the Null Hypothesis. This means even though the standard deviations between our June and December are similar (0.325012, 0.524095), the difference in the population mean is statistically significant to consider the month of June and December different in terms of precipitation.
+
+
+### Additional Query 2
+Our additional query 2 provides insight into the top 5 stations that recorded the highest temperature and precipitation for the months of june and december
+
+#### Top 5 Temperatures for June and December and their Stations
+![Top_Stations_June_Temps](https://user-images.githubusercontent.com/67847583/122621987-dc81e100-d05c-11eb-82be-89d1963f4ce8.png)
+![Top_Stations_December_Temps](https://user-images.githubusercontent.com/67847583/122621991-e0156800-d05c-11eb-898b-6cbe33c8fd0f.png)
+
+#### Top 5 Precipitations for June and December and their Stations
+![Top_Stations_June_Prcp](https://user-images.githubusercontent.com/67847583/122622020-f7545580-d05c-11eb-900a-b0f9020db44f.png)
+![Top_Stations_December_Prcp](https://user-images.githubusercontent.com/67847583/122622024-fa4f4600-d05c-11eb-9ba6-bb320b479a74.png)
+
+It is important to note that these type query can illuminate the locations with the highest temperatures and precipitation
+
+
