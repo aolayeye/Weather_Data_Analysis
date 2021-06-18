@@ -64,3 +64,12 @@ Our additional query provides summary statistics for June and December for preci
 ![June_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621349-df7bd200-d05a-11eb-8e1b-02d03bc99611.png)
 ![December_Prcp_Summary_Stats](https://user-images.githubusercontent.com/67847583/122621354-e4408600-d05a-11eb-8dd7-d52fb580a815.png)
 
+#### Interpreting the June and December Temperature Results
+Using a T-Test, we can detrmine if the mean precipitation values are different for the two months. To do so, we have to define our Null and Alternate Hypothesis.
+1. Null Hypothesis: µjune = µdecember (the means of both populations are equal)
+2. Alternate Hypothesis: µjune ≠ µdecember (the means of both populations are not equal)
+
+It is Important to note, we are specifying that the population does not have equal variance passing along False for the equal_var parameter. We know this because both samples were taken from populations (june and december) with different standard deviations.
+
+Our T-Test show: P-Value:[1.84738788e-06] T-Statistic:[-4.78090477]
+We have a very small P-value to reject the Null Hypothesis. This means even though the standard deviations between our June and December are similar (0.325012, 0.524095), the difference in the population mean is statistically significant to consider the month of June and December different in terms of precipitation.
