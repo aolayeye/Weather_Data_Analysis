@@ -24,13 +24,7 @@ In the second part of our analysis, we will produce queries that show summary st
 13. Find Low, High, and Average Temperatures from the list of active stations
 14. Plot the Highest Number of Observations
 15. Incorporate Flask into Data Analysis: Build Flask Routes
-16. Set Up Flask and Create a Route
-    - Install Flask.
-    - Create a new Python file.
-    - Import the Flask dependency.
-    - Create a new Flask app instance.
-    - Create Flask routes.
-    - Run a Flask app.
+16. Set Up Flask and Create Routes
 17. Set Up the Database and Flask: Set Up the Flask Weather App in VSCode
 18. Set Up the Database
 19. Set Up Flask
