@@ -31,6 +31,7 @@ In the date range specified (August 2016 to October 2017), there were 9 active s
 One trend we can observe based on the precipitation plot is that some months have higher amounts of precipitation than others. This plot provides insights around months where we would expect precipitation to be less and thus be a a good time for the surfing and ice-cream business.
 
 
+
 ![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122619578-5fec0400-d056-11eb-9f26-55effee23cfd.png)
 ![Temperature_Top_Station_2016_2017](https://user-images.githubusercontent.com/67847583/122619380-f2d86e80-d055-11eb-9b48-7bedb6fd199d.png)
 
@@ -41,5 +42,8 @@ Where 50% of the temperatures recorded for June were above 75.0, median temperat
 June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
 
 
+## June and December Summary Statistics
+![June_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620365-624f5d80-d058-11eb-94e6-e2ec1cf1c368.png)
+![December_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620371-667b7b00-d058-11eb-910c-71bc7509b12e.png)
 
 
