@@ -27,7 +27,7 @@ In the second part of our analysis, we will produce queries that show summary st
 20. Create the Routes
 
 ## Initial Results
-In the date range specified (August 2016 to October 2017), there were 9 active stations, the most active station with a count of 2272 records, recorded a maximum temperature of 85.0, a minumum temperature of 54.0, and an average temperature of 71.7. A histogram plot shows that the most ocurring temperature was around 75.0. 
+In the date range specified (August 2016 to October 2017), there were 9 active stations, the most active station with a count of 2272 records, recorded a maximum temperature of 85.0, a minumum temperature of 54.0, and an average temperature of 71.7. A histogram plot shows that the most ocurring temperature was around 76.0. 
 
 
 ![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122619578-5fec0400-d056-11eb-9f26-55effee23cfd.png)
