@@ -42,8 +42,16 @@ Where 50% of the temperatures recorded for June were above 75.0, median temperat
 June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
 
 
-## June and December Summary Statistics
+#### June and December Summary Statistics
 ![June_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620365-624f5d80-d058-11eb-94e6-e2ec1cf1c368.png)
 ![December_Temps_Summary_Stats](https://user-images.githubusercontent.com/67847583/122620371-667b7b00-d058-11eb-910c-71bc7509b12e.png)
 
+#### Interpreting the June and December Temperature Results
+Using a T-Test, we can detrmine if the mean temperature values are different for the two months. To do so, we have to define our Null and Alternate Hypothesis.
+1. Null Hypothesis: µjune = µdecember (the means of both populations are equal)
+2. Alternate Hypothesis: µjune ≠ µdecember (the means of both populations are not equal)
 
+It is Important to note, we are specifying that the population does not have equal variance passing along False for the equal_var parameter. We know this because both samples were taken from populations (june and december) with different standard deviations.
+
+Our T-Test show: P-Value:[4.19352984e-187] T-Statistic:[31.35503692]
+We have a very small P-value to reject the Null Hypothesis. This means even though the standard deviations between our June and December are similar (3.257417, 3.745920), the difference in the population mean is statistically significant to consider the month of June and December different in terms of temperature.
