@@ -5,7 +5,7 @@ The Surf_Up analysis seeks to analyze weather for several years to determine if 
 In the second part of our analysis, we will produce queries that show summary statistics for weather parameters for the months of June and December for multiple years.
 
 ## Control Flow
-1. Import Dependencies: Matplotlib Dependencies, NumPy and Pandas Dependencies, Datetime Dependencies, SQLAlchemy Dependencies
+1. Import Dependencies: Matplotlib, NumPy and Pandas, Datetime, SQLAlchemy.
 2. SQLAlchemy Create Engine
 3. SQLAlchemy Automap Base
 4. SQLAlchemy Reflect Tables
