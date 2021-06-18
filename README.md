@@ -1,3 +1,5 @@
+![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122618903-d556d500-d054-11eb-8c19-62b1b1c4f020.png)
+![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122618910-d8ea5c00-d054-11eb-8465-d867e17ce897.png)
 # surfs_up
 ## Overview
 The Surf_Up analysis seeks to analyze weather for several years to determine if establishing a surfing business in oahu is viable. In this analysis, we woud utilize Jupyter notebook, a SQLite database, and VSCode where we will create our flask application to visualize the results of our analysis.
@@ -28,6 +30,13 @@ In the second part of our analysis, we will produce queries that show summary st
 
 ## Initial Results
 In the date range specified (August 2016 to October 2017), there were 9 active stations, the most active station with a count of 2272 records, recorded a maximum temperature of 85.0, a minumum temperature of 54.0, and an average temperature of 71.7. A histogram plot shows that the most ocurring temperature was around 75.0. 
+
+
+![Precipitation_2016_2017](https://user-images.githubusercontent.com/67847583/122618924-df78d380-d054-11eb-81d6-ba1f11fa983e.png)
+![Temperature_Top_Station_2016_2017](https://user-images.githubusercontent.com/67847583/122618928-e273c400-d054-11eb-8287-3ecd836b3908.png)
+
+
+
 
 
 
