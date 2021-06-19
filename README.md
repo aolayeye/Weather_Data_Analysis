@@ -1,7 +1,7 @@
 # surfs_up
 ## Overview
 The Surf_Up analysis seeks to analyze weather data for several years to determine if establishing a surfing business in Oahu is viable. In this analysis, we would utilize Jupyter notebook, SQLite database, and VSCode, where we will create our flask application to visualize the results of our analysis.
-In the second part of our analysis, we will produce queries that show summary statistics for weather parameters for June and December for multiple years.
+In the second part of our analysis, we will produce queries that show summary statistics for weather parameters for June and December for multiple years. In the end, our analysis will show which months of the year and potentially which locations in Oahu are the best for opening a surfing business.
 
 ## Control Flow
 1. Import Dependencies: Matplotlib, NumPy and Pandas, Datetime, SQLAlchemy.
