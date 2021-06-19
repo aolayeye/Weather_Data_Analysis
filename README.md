@@ -86,6 +86,6 @@ Our additional query 2 provides insight into the top 5 stations that recorded th
 ![Top_Stations_June_Prcp](https://user-images.githubusercontent.com/67847583/122622020-f7545580-d05c-11eb-900a-b0f9020db44f.png)
 ![Top_Stations_December_Prcp](https://user-images.githubusercontent.com/67847583/122622024-fa4f4600-d05c-11eb-9ba6-bb320b479a74.png)
 
-If we decided to add the latitude and longitude details of the each station, and translate them to actual locations, our query can illuminate the locations with the highest temperatures and precipitation and thus inform where to setup our surfing business
+Additionlly, we can add the latitude and longitude details of the each station, and translate them to actual locations, our query can illuminate the locations with the highest temperatures and precipitation and thus inform where to setup our surfing business
 
 
