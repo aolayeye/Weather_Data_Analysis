@@ -37,9 +37,9 @@ One trend we can observe based on the precipitation plot is that some months hav
 
 
 ## Results: June and December
-Our temperarture summary statistics show that June typically has a higher mean temperature at 74.9 compared to December at 71.0.
-Where 50% of the temperatures recorded for June were above 75.0, median temperature for December was 71.0
-June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
+1. Our temperarture summary statistics show that June typically has a higher mean temperature at 74.9 compared to December at 71.0.
+2. Where 50% of the temperatures recorded for June were above 75.0, median temperature for December was 71.0
+3. June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
 
 
 #### June and December Summary Statistics [Temperature]
